@@ -1,13 +1,13 @@
 # Registro De Funcionários
-Um sistema para registro de Funcionários de um Empresa Feito em C.
+Um sistema para registro de Funcionários de um Empresa Feito em C.<br>
 
 Com esse sistema o usuário pode gravar os dados dos funcionários de uma empresa de maneira permanente.
-O sistema permite essas funções:
+O sistema permite essas funções:<br>
 
-1 - Visualizar Lista de Funcionários Cadastrados
-2 - Adicionar Funcionários
-3 - Localizar um Funcionário
-4 - Remover um Funcionário
-5 - Ordenar Lista de Funcionários pelo Nome,Idade ou Salario
+1 - Visualizar Lista de Funcionários Cadastrados<br>
+2 - Adicionar Funcionários<br>
+3 - Localizar um Funcionário<br>
+4 - Remover um Funcionário<br>
+5 - Ordenar Lista de Funcionários pelo Nome,Idade ou Salario<br>
 
-Aceito Dicas, Crítcas e/ou Sugestões!
+<br>Aceito Dicas, Crítcas e/ou Sugestões!
